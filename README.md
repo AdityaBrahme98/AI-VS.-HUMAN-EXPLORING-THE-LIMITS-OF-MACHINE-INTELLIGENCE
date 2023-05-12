@@ -1,0 +1,2 @@
+# AI-VS.-HUMAN-EXPLORING-THE-LIMITS-OF-MACHINE-INTELLIGENCE
+A classifier using SVM, Naïve Bayes, and neural networks distinguished human and ChatGPT answers, with SVM performing best. ChatGPT gave more similar responses to humans for fact-based questions but differed on opinion-based ones. ChatGPT has limitations &amp; capabilities; both may provide correct answers for questions with multiple correct responses
